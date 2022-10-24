@@ -1,0 +1,27 @@
+.Filter {
+  width: 430px;
+  padding: 15px;
+  margin-bottom: 10px;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.Filter-input {
+  padding: 10px;
+  width: 400px;
+}
+.Filter-enter {
+  transform: translateY(-100%);
+}
+.Filter-enter-active {
+  transform: translateY(0);
+  transition: transform 300ms linear;
+}
+.Filter-exit {
+  transform: translateY(100%);
+  opacity: 1;
+}
+.Filter-exit-active {
+  opacity: 0;
+  transform: translateY(-100%);
+  transition: all 300ms linear;
+}
