@@ -1,8 +1,8 @@
 {
   "name": "react-hw_2-2",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://nat2409.github.io/phonebook",
+  "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
     "@testing-library/jest-dom": "^5.16.4",
