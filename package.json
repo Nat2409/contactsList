@@ -1,7 +1,7 @@
 {
   "name": "react-hw_2-2",
   "version": "0.1.0",
-  "homepage": "https://nat2409.github.io/phonebook",
+  "homepage": "https://nat2409.github.io/contactsList",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
