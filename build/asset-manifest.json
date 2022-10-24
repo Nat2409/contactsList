@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/contactsList/static/css/main.a67ca7d5.css",
-    "main.js": "/contactsList/static/js/main.9e203431.js",
+    "main.js": "/contactsList/static/js/main.764238d1.js",
     "index.html": "/contactsList/index.html",
     "main.a67ca7d5.css.map": "/contactsList/static/css/main.a67ca7d5.css.map",
-    "main.9e203431.js.map": "/contactsList/static/js/main.9e203431.js.map"
+    "main.764238d1.js.map": "/contactsList/static/js/main.764238d1.js.map"
   },
   "entrypoints": [
     "static/css/main.a67ca7d5.css",
-    "static/js/main.9e203431.js"
+    "static/js/main.764238d1.js"
   ]
 }

@@ -31,8 +31,14 @@ const addContact = (state, action) => {
 
   return [...state, action.payload.contact];
 };
-const removeContact = (state, action) =>
-  state.filter(contact => contact.id !== action.payload);
+const removeContact = (state, action) => {
+  console.log('action.payload', action.payload);
+  console.log(
+    'state.filter(contact => contact.id',
+    state.filter(contact => contact.id !== action.payload)
+  );
+  return state.filter(contact => contact.id !== action.payload);
+};
 
 // const filterContacts = (state, action) => action.payload;
 
